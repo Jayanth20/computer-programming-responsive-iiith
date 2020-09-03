@@ -22,11 +22,11 @@ body {
 	position: relative;
 	padding: 0.5em 1em;
   	cursor: pointer;
-  	border-radius: 0.2em; 
+  	border-radius: 0.2em;
   	overflow: visible;
   	outline: none;
 	white-space: nowrap;
-  	-moz-background-clip: padding; 
+  	-moz-background-clip: padding;
     background-clip: padding-box;
 	border: 1px solid #d4d4d4;
     margin: 0;
@@ -78,7 +78,7 @@ body {
 
 .inputDivision, .outputDivision, .executionDivision {
     top: 11%;
-    height: 87%; 
+    height: 87%;
     position: absolute;
     border: 1px solid #CCC;
     border-radius: 5px;
@@ -132,7 +132,7 @@ body {
 .initializeText {
 	width: 60%;
 	float: left;
-	height: 100%; 
+	height: 100%;
 }
 
 .executionPic {
@@ -186,7 +186,7 @@ body {
     width: 95%;
     min-width: 70px;
     margin-left: 5%;
-    margin-top: 20px; 
+    margin-top: 20px;
 }
 
 .programInitialization, .computeArea, .programTail{
@@ -196,7 +196,7 @@ body {
     width: 76%;
     font-size: 17px;
     margin-left: 10%;
-    margin-top: 10px; 
+    margin-top: 10px;
     border:1px solid #CCC;
 }
 
@@ -251,7 +251,7 @@ body {
 .imageRectangle {
     left: 50%;
     top: 0%;
-    background-image: url('rectangle.jpg');
+    background-image: url('righttriangle.png');
     border: 1px dashed black;
 }
 
@@ -320,7 +320,7 @@ body {
     width: 80%;
 }
 
-.radioButtonHolder {	
+.radioButtonHolder {
     width: 100%;
     float: left;
     text-align: left;
@@ -395,7 +395,7 @@ body {
 }
 
 .initializeText, .executionText, .outputText {
-    padding-top: 1.8vmin; 
+    padding-top: 1.8vmin;
 }
 
 .functionForSquare, .functionForRectangle, .functionForTriangle, .functionForCircle {
@@ -419,9 +419,9 @@ body {
     top: 75%;
 }
 
-.radioButtonHolder {    
+.radioButtonHolder {
     height: 24px;
-} 
+}
 
 .radiobutton {
     width: 12%;
@@ -436,7 +436,7 @@ body {
 
 .questionText {
     height: 5%;
-    min-height: 30px; 
+    min-height: 30px;
     font-size: 1em;
 }
 
@@ -460,7 +460,7 @@ body {
 }
 
 .initializeText, .executionText, .outputText {
-    padding-top: 1.9vmin; 
+    padding-top: 1.9vmin;
 }
 
 .functionForSquare, .functionForRectangle, .functionForTriangle, .functionForCircle {
@@ -483,9 +483,9 @@ body {
     top: 486px;
 }
 
-.radioButtonHolder {    
+.radioButtonHolder {
     height: 40px;
-} 
+}
 
 .radiobutton {
     width: 25%;
@@ -495,11 +495,11 @@ body {
 .radioText {
     font-size: 1.2em;
     width: 60%;
-    height: 60%; 
+    height: 60%;
 }
 
 .questionText {
-    height: 15%; 
+    height: 15%;
     font-size: 1.2em;
 }
 
